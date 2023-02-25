@@ -7,7 +7,7 @@
   <div align="center"><img src="https://komarev.com/ghpvc/?username=msouz4&style=flat-square&color=blue" alt=""/></div>
 
 ---
-### 👩‍💻: About : 
+### 👩‍💻 About : 
 Analista de Sistemas Senior / Desenvolvedor Fullstack
 - Usuário linux á mais de 10 anos.
 - Trabalho como analista de sistemas (vmware,linux,windows,oracle,mysql,arcserve) e desenvolvedor fullstack em uma empresa de transportes, construindo webapps e aplicativos mobile.
