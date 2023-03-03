@@ -7,7 +7,7 @@
   <div align="center"><img src="https://komarev.com/ghpvc/?username=msouz4&style=flat-square&color=blue" alt=""/></div>
 
 ---
-### 👩‍💻 About : 
+### About : 
 Analista de Sistemas Senior / Desenvolvedor Fullstack
 - Usuário linux á mais de 10 anos.
 - Trabalho como analista de sistemas (vmware,linux,windows,oracle,mysql,arcserve) e desenvolvedor fullstack em uma empresa de transportes, construindo webapps e aplicativos mobile.
@@ -15,7 +15,7 @@ Analista de Sistemas Senior / Desenvolvedor Fullstack
 - Em meu tempo livre, pratico esportes e estudo novas tecnologias.
 - Contato [![Linkedin Badge](https://img.shields.io/badge/-msouz4-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/antonio-souza-5a0a71210)
 ---
-### :hammer_and_wrench: Stacks and Tools :
+### Stacks and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
@@ -29,7 +29,7 @@ Analista de Sistemas Senior / Desenvolvedor Fullstack
 
 ---
 
-### :fire: Stats :
+### Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=msouz4&theme=horizon&locale=pt_BR)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msouz4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
