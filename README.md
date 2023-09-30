@@ -11,7 +11,6 @@
 Analista de Sistemas Senior / Desenvolvedor Fullstack
 - Usuário linux á mais de 10 anos.
 - Trabalho como analista de sistemas (vmware,linux,windows,oracle,mysql,arcserve) e desenvolvedor fullstack em uma empresa de transportes, construindo webapps e aplicativos mobile.
-- Atualmente estudando as tecnologias: Laravel, Flutter, ReactNative.
 - Em meu tempo livre, pratico esportes e estudo novas tecnologias.
 - Contato [![Linkedin Badge](https://img.shields.io/badge/-msouz4-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/antonio-souza-5a0a71210)
 ---
