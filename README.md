@@ -27,9 +27,3 @@ Analista de Sistemas Senior / Desenvolvedor Fullstack
 </div>
 
 ---
-
-### Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=msouz4&theme=horizon&locale=pt_BR)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msouz4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
